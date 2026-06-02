@@ -73,7 +73,7 @@ Screenshots
 
 Index HTML Code
 
-"Index HTML" (screenshots/Index_HTML_Code.png)
+![Index HTML] (screenshots/Index_HTML_Code.png)
 
 S3 Bucket Creation
 
