@@ -71,29 +71,28 @@ Successfully accessed the website through the S3 Website Endpoint.
 
 Screenshots
 
-Index HTML Code
-
 ### Index HTML Code
+
 ![Index HTML](Index_HTML_Code.png)
 
-S3 Bucket Creation
 
 ### S3 Bucket Creation
+
 ![Bucket Creation](S3_Bucket_Creation.png)
 
-Website Files Uploaded
 
 ### Website Files Uploaded
+
 ![Files Uploaded](Website_File_Uploaded.png)
 
-Static Website Hosting Enabled
 
 ### Static Website Hosting Enabled
+
 ![Static Hosting](Static_Website_Hosting_Enabled.png)
 
-Live Website Output
 
 ### Live Website Output
+
 ![Live Website](Live_Website_Output.png)
 
 
