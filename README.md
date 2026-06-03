@@ -73,23 +73,29 @@ Screenshots
 
 Index HTML Code
 
-![Index HTML] (screenshots/Index_HTML_Code.png)
+### Index HTML Code
+![Index HTML](Index_HTML_Code.png)
 
 S3 Bucket Creation
 
-"Bucket Creation" (screenshots/S3_Bucket_Creation.png)
+### S3 Bucket Creation
+![Bucket Creation](S3_Bucket_Creation.png)
 
 Website Files Uploaded
 
-"Files Uploaded" (screenshots/Website_Files_Uploaded.png)
+### Website Files Uploaded
+![Files Uploaded](Website_File_Uploaded.png)
 
 Static Website Hosting Enabled
 
-"Static Hosting" (screenshots/Static_Website_Hosting_Enabled.png)
+### Static Website Hosting Enabled
+![Static Hosting](Static_Website_Hosting_Enabled.png)
 
 Live Website Output
 
-"Live Website" (screenshots/Live_Website_Output.png)
+### Live Website Output
+![Live Website](Live_Website_Output.png)
+
 
 Skills Learned
 
